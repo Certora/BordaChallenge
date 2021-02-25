@@ -1,4 +1,4 @@
-# Certora Prover Supplementary Material
+# The Borda Challenge
 The [Borda count election algorithm](https://en.wikipedia.org/wiki/Borda_count) is a simple election scheme where voters rank candidates in order of preference by giving 3 points to their first choice, 2 for their 2nd choice, and 1 point for the 3rd choice. 
 
 We define `BordaInterface`, a public interface for the Borda algorithm: 
